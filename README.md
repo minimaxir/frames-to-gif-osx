@@ -4,9 +4,9 @@ An application that allows the user to easily convert frames to very-high-qualit
 ![](/examples/uni_frames.gif)
 ![](/examples/bi_frames.gif)
 
-The primary intent for this tool is used with a folder containing procedually-generated frames, named in *lexigraphical order*.
+The tool is used with a folder containing procedually-generated frames, named in *lexigraphical order*. The primary intent is for use with statistical visualizations.
 
-The tools also lets you specify maximum width, frame rate, and # of colors.
+The [Convert Frames to GIF App Custom tool](https://github.com/minimaxir/frames-to-gif-osx/blob/master/Convert%20Frames%20to%20GIF%20App%20Custom.zip) also lets you specify maximum width, frame rate, and # of colors for the output GIF, which is good for managing file size as well as usability.
 
 ## Installation
 
